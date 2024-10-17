@@ -24,4 +24,4 @@
    }>	//  public_key stored_seqno stored_subwallet cs
    ENDS SWAP INC	//  public_key stored_subwallet seqno'
    NEWC 32 STU 32 STU 256 STU ENDC c4 POP
-}>c
+}>chttps://github.com/ton-blockchain/ton/commit/040df63c9864f2f37ebe50c4cafcc01f2d5d2d5c
