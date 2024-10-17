@@ -24,4 +24,4 @@
    }>	//  public_key stored_seqno stored_subwallet cs
    ENDS SWAP INC	//  public_key stored_subwallet seqno'
    NEWC 32 STU 32 STU 256 STU ENDC c4 POP
-}>c
+}>cB5690EEEBB952194
